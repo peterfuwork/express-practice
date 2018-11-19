@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "brand": "BMW",
+        "model": "M3"
+    },
+    {
+        "id": 2,
+        "brand": "Mercedes-Benz",
+        "model": "C63 AMG"
+    },
+    {
+        "id": 3,
+        "brand": "Porsche",
+        "model": "911 turbo"
+    },
+    {
+        "id": 4,
+        "brand": "Subaru",
+        "model": "WRX"
+    },
+    {
+        "id": 5,
+        "brand": "Chevy",
+        "model": "Corvette"
+    },
+    {
+        "id": 6,
+        "brand": "Lamborghini",
+        "model": "Huracan"
+    },
+    {
+        "id": 7,
+        "brand": "Maserati",
+        "model": "Ghibli"
+    }
+]
